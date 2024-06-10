@@ -57,7 +57,7 @@ li.completed {
 .delete-btn {
     margin-left: auto;
     cursor: pointer;
-    color: #888;
+    color: #c2b2b2;
 }
 
 .delete-btn:hover {
